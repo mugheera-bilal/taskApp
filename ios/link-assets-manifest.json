@@ -1,0 +1,93 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/BebasNeue-Regular.ttf",
+      "sha1": "8b3aaeb978f3cb5f575860774b50c332338563c1"
+    },
+    {
+      "path": "assets/fonts/KalniaGlaze-Bold.ttf",
+      "sha1": "7ce5478ff2adb8c0ec595726edf073874a8d6134"
+    },
+    {
+      "path": "assets/fonts/KalniaGlaze-ExtraLight.ttf",
+      "sha1": "a846fd817367052988cd3a204271ca12d7ee1848"
+    },
+    {
+      "path": "assets/fonts/KalniaGlaze-Light.ttf",
+      "sha1": "8620b8b2472651e49c5391074d1a8652ef374224"
+    },
+    {
+      "path": "assets/fonts/KalniaGlaze-Medium.ttf",
+      "sha1": "9b38b03d2de05b010bbff848439ec76eb8ba1e93"
+    },
+    {
+      "path": "assets/fonts/KalniaGlaze-Regular.ttf",
+      "sha1": "322e42e9868d405575fddfbc0476a3dca616c0de"
+    },
+    {
+      "path": "assets/fonts/KalniaGlaze-SemiBold.ttf",
+      "sha1": "5121b722e22dbf8a42555f3e8ed6824f804f0ccf"
+    },
+    {
+      "path": "assets/fonts/KalniaGlaze-Thin.ttf",
+      "sha1": "77d77d5aae767f69a126d83235c013b9797489c0"
+    },
+    {
+      "path": "assets/fonts/KalniaGlaze_Expanded-Bold.ttf",
+      "sha1": "ecbe507f6e087d8b43425c0e70ab6f212a0c009e"
+    },
+    {
+      "path": "assets/fonts/KalniaGlaze_Expanded-ExtraLight.ttf",
+      "sha1": "4c1790589227cfa12842085068aaa464f9dd4d79"
+    },
+    {
+      "path": "assets/fonts/KalniaGlaze_Expanded-Light.ttf",
+      "sha1": "96eff6b3cdc6477d30a4049c38787c9526b479ab"
+    },
+    {
+      "path": "assets/fonts/KalniaGlaze_Expanded-Medium.ttf",
+      "sha1": "dea0a5159c208910d6ebb3af50e45d34f7174036"
+    },
+    {
+      "path": "assets/fonts/KalniaGlaze_Expanded-Regular.ttf",
+      "sha1": "40c3bafd62e26022f1b426da60601e07eca2e3e0"
+    },
+    {
+      "path": "assets/fonts/KalniaGlaze_Expanded-SemiBold.ttf",
+      "sha1": "aabf025a674ac62833137f0e8b7df5ba96d3fcd9"
+    },
+    {
+      "path": "assets/fonts/KalniaGlaze_Expanded-Thin.ttf",
+      "sha1": "98682c7673d277372fbe9ebe7970f0a6e7fd7e0b"
+    },
+    {
+      "path": "assets/fonts/KalniaGlaze_SemiExpanded-Bold.ttf",
+      "sha1": "955f65a84cc509913cae9c1086dca24c399d6665"
+    },
+    {
+      "path": "assets/fonts/KalniaGlaze_SemiExpanded-ExtraLight.ttf",
+      "sha1": "fd2dc0fe136b2e9810f5abb59ce0b8a03afd659d"
+    },
+    {
+      "path": "assets/fonts/KalniaGlaze_SemiExpanded-Light.ttf",
+      "sha1": "623e50d13a8bd9c7f3f88e57773ea60bcfe4d5a8"
+    },
+    {
+      "path": "assets/fonts/KalniaGlaze_SemiExpanded-Medium.ttf",
+      "sha1": "14f1fdc210fcd8286d3ccf434b49cc32133a5aeb"
+    },
+    {
+      "path": "assets/fonts/KalniaGlaze_SemiExpanded-Regular.ttf",
+      "sha1": "920ba09fb0c3ba8bb86d10fc3439b05d06530822"
+    },
+    {
+      "path": "assets/fonts/KalniaGlaze_SemiExpanded-SemiBold.ttf",
+      "sha1": "9c6d9c90433f19dc441c700a4ac5fe68fb136880"
+    },
+    {
+      "path": "assets/fonts/KalniaGlaze_SemiExpanded-Thin.ttf",
+      "sha1": "36de0d9f527c0d43543aa2ac8b6c5ce11e73a063"
+    }
+  ]
+}
